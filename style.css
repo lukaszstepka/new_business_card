@@ -1,0 +1,38 @@
+body {
+  background-color: #2c2141;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.main {
+  width: 624px;
+  margin: 16px;
+  left: 388px;
+  top: 267px;
+  background-color: #f8f8f8;
+  border-radius: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+img {
+  width: 148px;
+  height: 148px;
+  border-radius: 74px;
+  margin: 32px;
+  left: 420px;
+  top: 299px;
+}
+p {
+  color: #000000;
+}
+.links {
+  color: #e20613;
+  text-decoration: none;
+}
+.atuts {
+  color: #ed6d05;
+}
+.position {
+  color: #545454;
+}
